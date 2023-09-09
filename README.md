@@ -12,20 +12,15 @@ What is the value of the expression 4 + 6 * 5
 3. What is the type of the result of the expression 3 + 1.5 + 4?
    
 4. What would you use to find a number’s square root, as well as its square?
- # Square root:
- # Square:
  
 5.Given the string 'hello' give an index command that returns 'e'. Enter your code in the cell below:
 In [ ]: s = 'hello'
-# Print out 'e' using indexing
 
 6.Reverse the string 'hello' using slicing:
 In [ ]: s ='hello'
 
 7. Given the string hello, give two methods of producing the letter 'o' using indexing.
 In [ ]: s ='hello'
-# Print out the 'o'
-# Method 1:
 
 8. Build this list [0,0,0] two separate ways.
    
@@ -67,11 +62,10 @@ Operator Description Example
 12.5  4**0.5 != 2
 
 12.6 l_one = [1,2,[3,4]]
-l_two = [1,2,{'k1':4}]
-# True or False?
-l_one[2][0] >= l_two[2]['k1']
+   l_two = [1,2,{'k1':4}]
+   l_one[2][0] >= l_two[2]['k1']
 
-13. Programming Assignment ¶
+13. Programming Assignment 
 
 #Find you manager salary ?
 
